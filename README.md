@@ -6,7 +6,7 @@ The code in the links below is reasonably referenced and heavily modified.
 
 ### DCGAN
 
-DCGAN structure refers to the overall structure of the code, and a lot of changes are made to the number of deconvolution layers and parameter Settings when used.
+The overall structure of the DCGAN model refers to the code in the following link, with many changes made to the number of deconvolution layers and parameter settings when used.
 
 https://github.com/HuiiJi/GAN?tab=readme-ov-file 
 
